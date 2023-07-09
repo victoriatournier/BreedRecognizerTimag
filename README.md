@@ -23,3 +23,10 @@ A continuación se muestran ejemplos de imágenes del dataset y sus correspondie
 Ejemplo de imagen con el fondo removido:
 
 ![Ejemplos de imágen con el fondo removido](recorte.png)
+
+### Integrantes del grupo
+
+Integrantes del grupo:
+- [Carmen Salinas](mailto:csalinas110798@gmail.com)
+- [Bruno Ottonelli](mailto:brunoottonelli@gmail.com)
+- [Maria Victoria Tournier](mailto:victoriatournier@gmail.com)
