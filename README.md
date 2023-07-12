@@ -16,13 +16,13 @@ Se utilizó el [ The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/d
 
 A continuación se muestran ejemplos de imágenes del dataset y sus correspondientes etiquetas de segmentacion:
 
-![Ejemplos de imágenes de razas de perros y gatos](imagenes_razas.png)
+![Ejemplos de imágenes de razas de perros y gatos](imagenes/imagenes_razas.png)
 
-![Ejemplos de las etiquetas de segmentacion](imagenes_segmentacion.png)
+![Ejemplos de las etiquetas de segmentacion](imagenes/imagenes_segmentacion.png)
 
 Ejemplo de imagen con el fondo removido:
 
-![Ejemplos de imágen con el fondo removido](recorte.png)
+![Ejemplos de imágen con el fondo removido](imagenes/recorte.png)
 
 ### Integrantes del grupo
 
