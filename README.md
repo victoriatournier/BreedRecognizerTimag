@@ -1,32 +1,33 @@
+# TIMAG 2023 - PROYECTO FINAL - Grupo 4
 # Breed Recognizer
 
- El objetivo de este proyecto es extraer las características principales de las razas de perros y gatos a partir de imágenes y utilizar estas características para diferenciar entre distintas razas. Además, se busca indicar a qué raza o razas se parece más el animal después del procesamiento de la imagen.
+[Página web del proyecto](https://maria.victoria.tournier.pages.fing.edu.uy/breed-recognizer-timag/pages/introduccion.html)
 
-## Características del proyecto
-
-- El proyecto se enfoca en la identificación de razas de perros y gatos a partir de imágenes.
-- Se utilizan técnicas de procesamiento de imágenes para extraer características relevantes.
-- Se emplea aprendizaje automático y algoritmos de clasificación para diferenciar entre distintas razas.
-- Se busca proporcionar una indicación de la raza o razas a las que se parece más el animal en la imagen procesada.
-
-## Dataset utilizado
-
-Se utilizó el [ The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/) que consta de 37 categorías de mascotas con aproximadamente 200 imágenes para cada clase. Las imágenes presentan variaciones significativas en escala, pose e iluminación. Cada imagen cuenta con una anotación de la raza correspondiente, una región de interés (ROI) para la cabeza y una segmentación del background.
+[Repositorio del proyecto](https://gitlab.fing.edu.uy/maria.victoria.tournier/breed-recognizer-timag)
 
 
-A continuación se muestran ejemplos de imágenes del dataset y sus correspondientes etiquetas de segmentacion:
+El objetivo de este proyecto es extraer las características principales de las razas de gatos a partir de imágenes y utilizar estas características para diferenciar entre distintas razas. Además, se busca indicar a qué raza se parece más el animal después del procesamiento de la imagen.
 
-![Ejemplos de imágenes de razas de perros y gatos](imagenes/imagenes_razas.png)
 
-![Ejemplos de las etiquetas de segmentacion](imagenes/imagenes_segmentacion.png)
 
-Ejemplo de imagen con el fondo removido:
+Se utilizó el [ The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/).
 
-![Ejemplos de imágen con el fondo removido](imagenes/recorte.png)
+
+En la carpeta **src** se encuentra el código desarrollado en el proyecto.
+Los principales resultados pueden verse en los notebooks **entrenamiento_combinados.ipynb** y **inferencia.ipynb**.
+
+<figure style="text-align: center;">
+  <!--Incluir camino a la imagen a mostrar-->
+  <img src="imagenes_razas_gatos.jpeg" width="600">
+  <figcaption>
+    Ejemplo de razas de gatos
+  </figcaption>
+</figure>
+
 
 ### Integrantes del grupo
 
-Integrantes del grupo:
 - [Carmen Salinas](mailto:csalinas110798@gmail.com)
 - [Bruno Ottonelli](mailto:brunoottonelli@gmail.com)
 - [Maria Victoria Tournier](mailto:victoriatournier@gmail.com)
+
